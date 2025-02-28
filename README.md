@@ -34,7 +34,7 @@
 *   **零门槛开发**：通过 `⌘/Ctrl + K` 唤醒智能编程助手
 *   **多平台支持**：Windows/macOS/Linux 全平台客户端
 
-[立即下载 ▶](https://www.trae.ai/download)
+[立即下载 ▶]([https://www.trae.ai/download](https://www.trae.ai/?utm_source=juejin&utm_medium=juejin_trae&utm_campaign=github))
 
 ## 📚 学习资源
 
